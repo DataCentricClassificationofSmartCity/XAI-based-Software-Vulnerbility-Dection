@@ -1,1 +1,3 @@
 # XAI-based-Software-Vulnerbility-Dection
+
+This repo reflects the code base of journal paper <Assessment of Software Vulnerability Contributing Factors using Model-Agnostic eXplainable AI Techniques>
