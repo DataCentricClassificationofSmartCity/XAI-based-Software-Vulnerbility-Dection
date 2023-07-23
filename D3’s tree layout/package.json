@@ -1,0 +1,14 @@
+{
+  "name": "2e53db8381d2649b",
+  "main": "2e53db8381d2649b@423.js",
+  "version": "423.0.0",
+  "homepage": "https://observablehq.com/d/2e53db8381d2649b",
+  "author": {
+    "name": "Ding",
+    "url": "https://observablehq.com/@dingconcordia"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
