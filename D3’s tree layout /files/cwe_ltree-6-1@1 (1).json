@@ -1,0 +1,836 @@
+{
+    "name": "CWE",
+    "children": [
+      {
+        "name": "Path & Resource Issues",
+        "children": [
+          {
+            "name": "CWE22",
+            "children": [
+              {
+                "name": "stat-subelements: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "exceptions: 0.981",
+                "value": 0.981
+              },
+              {
+                "name": "expressions: 0.981",
+                "value": 0.981
+              },
+              {
+                "name": "name: 0.98",
+                "value": 0.98
+              },
+              {
+                "name": "classes etc.: 0.976",
+                "value": 0.976
+              },
+              {
+                "name": "statement: 0.974",
+                "value": 0.974
+              },
+              {
+                "name": "parameter: 0.97",
+                "value": 0.97
+              },
+              {
+                "name": "specifier: 0.964",
+                "value": 0.964
+              },
+              {
+                "name": "argument: 0.937",
+                "value": 0.937
+              }
+            ]
+          },
+          {
+            "name": "CWE36",
+            "children": [
+              {
+                "name": "name: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "parameter: 0.848",
+                "value": 0.848
+              },
+              {
+                "name": "exceptions: 0.571",
+                "value": 0.571
+              },
+              {
+                "name": "argument: 0.528",
+                "value": 0.528
+              },
+              {
+                "name": "expressions: 0.528",
+                "value": 0.528
+              },
+              {
+                "name": "statement: 0.517",
+                "value": 0.517
+              },
+              {
+                "name": "stat-subelements: 0.5",
+                "value": 0.5
+              },
+              {
+                "name": "classes etc.: 0.394",
+                "value": 0.394
+              },
+              {
+                "name": "specifier: 0.157",
+                "value": 0.157
+              }
+            ]
+          },
+          {
+            "name": "CWE23",
+            "children": [
+              {
+                "name": "expressions: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "argument: 0.931",
+                "value": 0.931
+              },
+              {
+                "name": "stat-subelements: 0.844",
+                "value": 0.844
+              },
+              {
+                "name": "name: 0.836",
+                "value": 0.836
+              },
+              {
+                "name": "exceptions: 0.784",
+                "value": 0.784
+              },
+              {
+                "name": "specifier: 0.488",
+                "value": 0.488
+              },
+              {
+                "name": "parameter: 0.484",
+                "value": 0.484
+              },
+              {
+                "name": "statement: 0.328",
+                "value": 0.328
+              },
+              {
+                "name": "classes etc.: 0.322",
+                "value": 0.322
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Trust & Privilege Management Issues",
+        "children": [
+          {
+            "name": "CWE500",
+            "children": [
+              {
+                "name": "specifier: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "exceptions: 0.415",
+                "value": 0.415
+              },
+              {
+                "name": "parameter: 0.359",
+                "value": 0.359
+              },
+              {
+                "name": "stat-subelements: 0.334",
+                "value": 0.334
+              },
+              {
+                "name": "name: 0.247",
+                "value": 0.247
+              },
+              {
+                "name": "argument: 0.184",
+                "value": 0.184
+              },
+              {
+                "name": "expressions: 0.168",
+                "value": 0.168
+              },
+              {
+                "name": "statement: 0.14",
+                "value": 0.14
+              },
+              {
+                "name": "classes etc.: 0.126",
+                "value": 0.126
+              }
+            ]
+          },
+          {
+            "name": "CWE501",
+            "children": [
+              {
+                "name": "parameter: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "name: 0.988",
+                "value": 0.988
+              },
+              {
+                "name": "stat-subelements: 0.986",
+                "value": 0.986
+              },
+              {
+                "name": "expressions: 0.967",
+                "value": 0.967
+              },
+              {
+                "name": "statement: 0.95",
+                "value": 0.95
+              },
+              {
+                "name": "classes etc.: 0.946",
+                "value": 0.946
+              },
+              {
+                "name": "argument: 0.939",
+                "value": 0.939
+              },
+              {
+                "name": "exceptions: 0.929",
+                "value": 0.929
+              },
+              {
+                "name": "specifier: 0.865",
+                "value": 0.865
+              }
+            ]
+          },
+          {
+            "name": "CWE15",
+            "children": [
+              {
+                "name": "specifier: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "exceptions: 0.436",
+                "value": 0.436
+              },
+              {
+                "name": "stat-subelements: 0.366",
+                "value": 0.366
+              },
+              {
+                "name": "expressions: 0.319",
+                "value": 0.319
+              },
+              {
+                "name": "argument: 0.317",
+                "value": 0.317
+              },
+              {
+                "name": "name: 0.284",
+                "value": 0.284
+              },
+              {
+                "name": "parameter: 0.238",
+                "value": 0.238
+              },
+              {
+                "name": "statement: 0.123",
+                "value": 0.123
+              },
+              {
+                "name": "classes etc.: 0.08",
+                "value": 0.08
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Buffer Errors",
+        "children": [
+          {
+            "name": "CWE119",
+            "children": [
+              {
+                "name": "statement: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "argument: 0.913",
+                "value": 0.913
+              },
+              {
+                "name": "expressions: 0.859",
+                "value": 0.859
+              },
+              {
+                "name": "specifier: 0.825",
+                "value": 0.825
+              },
+              {
+                "name": "exceptions: 0.81",
+                "value": 0.81
+              },
+              {
+                "name": "name: 0.72",
+                "value": 0.72
+              },
+              {
+                "name": "stat-subelements: 0.692",
+                "value": 0.692
+              }
+            ]
+          },
+          {
+            "name": "CWE120",
+            "children": [
+              {
+                "name": "statement: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "argument: 0.88",
+                "value": 0.88
+              },
+              {
+                "name": "expressions: 0.847",
+                "value": 0.847
+              },
+              {
+                "name": "exceptions: 0.825",
+                "value": 0.825
+              },
+              {
+                "name": "specifier: 0.804",
+                "value": 0.804
+              },
+              {
+                "name": "stat-subelements: 0.703",
+                "value": 0.703
+              },
+              {
+                "name": "name: 0.691",
+                "value": 0.691
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pointer Subtraction Use Issues",
+        "children": [
+          {
+            "name": "CWE469",
+            "children": [
+              {
+                "name": "statement: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "argument: 0.802",
+                "value": 0.802
+              },
+              {
+                "name": "exceptions: 0.792",
+                "value": 0.792
+              },
+              {
+                "name": "specifier: 0.737",
+                "value": 0.737
+              },
+              {
+                "name": "expressions: 0.729",
+                "value": 0.729
+              },
+              {
+                "name": "stat-subelements: 0.715",
+                "value": 0.715
+              },
+              {
+                "name": "name: 0.534",
+                "value": 0.534
+              },
+              {
+                "name": "parameter: 0.0",
+                "value": 0.0
+              },
+              {
+                "name": "classes etc.: 0.0",
+                "value": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Injection Vulnerabilities",
+        "children": [
+          {
+            "name": "CWE78",
+            "children": [
+              {
+                "name": "name: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "stat-subelements: 0.999",
+                "value": 0.999
+              },
+              {
+                "name": "expressions: 0.991",
+                "value": 0.991
+              },
+              {
+                "name": "parameter: 0.986",
+                "value": 0.986
+              },
+              {
+                "name": "classes etc.: 0.975",
+                "value": 0.975
+              },
+              {
+                "name": "statement: 0.972",
+                "value": 0.972
+              },
+              {
+                "name": "argument: 0.95",
+                "value": 0.95
+              },
+              {
+                "name": "exceptions: 0.949",
+                "value": 0.949
+              },
+              {
+                "name": "specifier: 0.855",
+                "value": 0.855
+              }
+            ]
+          },
+          {
+            "name": "CWE79",
+            "children": [
+              {
+                "name": "stat-subelements: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "name: 0.99",
+                "value": 0.99
+              },
+              {
+                "name": "expressions: 0.977",
+                "value": 0.977
+              },
+              {
+                "name": "exceptions: 0.966",
+                "value": 0.966
+              },
+              {
+                "name": "statement: 0.964",
+                "value": 0.964
+              },
+              {
+                "name": "classes etc.: 0.961",
+                "value": 0.961
+              },
+              {
+                "name": "parameter: 0.954",
+                "value": 0.954
+              },
+              {
+                "name": "argument: 0.952",
+                "value": 0.952
+              },
+              {
+                "name": "specifier: 0.935",
+                "value": 0.935
+              }
+            ]
+          },
+          {
+            "name": "CWE89",
+            "children": [
+              {
+                "name": "stat-subelements: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "name: 0.979",
+                "value": 0.979
+              },
+              {
+                "name": "expressions: 0.974",
+                "value": 0.974
+              },
+              {
+                "name": "exceptions: 0.972",
+                "value": 0.972
+              },
+              {
+                "name": "statement: 0.968",
+                "value": 0.968
+              },
+              {
+                "name": "parameter: 0.966",
+                "value": 0.966
+              },
+              {
+                "name": "classes etc.: 0.964",
+                "value": 0.964
+              },
+              {
+                "name": "argument: 0.943",
+                "value": 0.943
+              },
+              {
+                "name": "specifier: 0.919",
+                "value": 0.919
+              }
+            ]
+          },
+          {
+            "name": "CWE90",
+            "children": [
+              {
+                "name": "name: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "expressions: 0.985",
+                "value": 0.985
+              },
+              {
+                "name": "stat-subelements: 0.982",
+                "value": 0.982
+              },
+              {
+                "name": "classes etc.: 0.965",
+                "value": 0.965
+              },
+              {
+                "name": "statement: 0.959",
+                "value": 0.959
+              },
+              {
+                "name": "parameter: 0.953",
+                "value": 0.953
+              },
+              {
+                "name": "exceptions: 0.946",
+                "value": 0.946
+              },
+              {
+                "name": "argument: 0.926",
+                "value": 0.926
+              },
+              {
+                "name": "specifier: 0.882",
+                "value": 0.882
+              }
+            ]
+          },
+          {
+            "name": "CWE643",
+            "children": [
+              {
+                "name": "parameter: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "name: 0.961",
+                "value": 0.961
+              },
+              {
+                "name": "stat-subelements: 0.956",
+                "value": 0.956
+              },
+              {
+                "name": "argument: 0.945",
+                "value": 0.945
+              },
+              {
+                "name": "expressions: 0.94",
+                "value": 0.94
+              },
+              {
+                "name": "statement: 0.918",
+                "value": 0.918
+              },
+              {
+                "name": "classes etc.: 0.912",
+                "value": 0.912
+              },
+              {
+                "name": "exceptions: 0.904",
+                "value": 0.904
+              },
+              {
+                "name": "specifier: 0.89",
+                "value": 0.89
+              }
+            ]
+          },
+          {
+            "name": "CWE789",
+            "children": [
+              {
+                "name": "specifier: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "exceptions: 0.395",
+                "value": 0.395
+              },
+              {
+                "name": "parameter: 0.322",
+                "value": 0.322
+              },
+              {
+                "name": "stat-subelements: 0.312",
+                "value": 0.312
+              },
+              {
+                "name": "name: 0.268",
+                "value": 0.268
+              },
+              {
+                "name": "argument: 0.248",
+                "value": 0.248
+              },
+              {
+                "name": "expressions: 0.141",
+                "value": 0.141
+              },
+              {
+                "name": "statement: 0.11",
+                "value": 0.11
+              },
+              {
+                "name": "classes etc.: 0.08",
+                "value": 0.08
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Crypto/Data Handling Issues",
+        "children": [
+          {
+            "name": "CWE327",
+            "children": [
+              {
+                "name": "stat-subelements: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "name: 0.986",
+                "value": 0.986
+              },
+              {
+                "name": "expressions: 0.984",
+                "value": 0.984
+              },
+              {
+                "name": "exceptions: 0.977",
+                "value": 0.977
+              },
+              {
+                "name": "classes etc.: 0.975",
+                "value": 0.975
+              },
+              {
+                "name": "statement: 0.973",
+                "value": 0.973
+              },
+              {
+                "name": "parameter: 0.962",
+                "value": 0.962
+              },
+              {
+                "name": "specifier: 0.959",
+                "value": 0.959
+              },
+              {
+                "name": "argument: 0.957",
+                "value": 0.957
+              }
+            ]
+          },
+          {
+            "name": "CWE328",
+            "children": [
+              {
+                "name": "stat-subelements: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "name: 0.992",
+                "value": 0.992
+              },
+              {
+                "name": "expressions: 0.99",
+                "value": 0.99
+              },
+              {
+                "name": "exceptions: 0.986",
+                "value": 0.986
+              },
+              {
+                "name": "classes etc.: 0.983",
+                "value": 0.983
+              },
+              {
+                "name": "specifier: 0.982",
+                "value": 0.982
+              },
+              {
+                "name": "parameter: 0.981",
+                "value": 0.981
+              },
+              {
+                "name": "statement: 0.978",
+                "value": 0.978
+              },
+              {
+                "name": "argument: 0.966",
+                "value": 0.966
+              }
+            ]
+          },
+          {
+            "name": "CWE330",
+            "children": [
+              {
+                "name": "stat-subelements: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "parameter: 0.993",
+                "value": 0.993
+              },
+              {
+                "name": "name: 0.985",
+                "value": 0.985
+              },
+              {
+                "name": "expressions: 0.983",
+                "value": 0.983
+              },
+              {
+                "name": "exceptions: 0.976",
+                "value": 0.976
+              },
+              {
+                "name": "classes etc.: 0.976",
+                "value": 0.976
+              },
+              {
+                "name": "statement: 0.974",
+                "value": 0.974
+              },
+              {
+                "name": "specifier: 0.942",
+                "value": 0.942
+              },
+              {
+                "name": "argument: 0.942",
+                "value": 0.942
+              }
+            ]
+          },
+          {
+            "name": "CWE614",
+            "children": [
+              {
+                "name": "parameter: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "name: 0.972",
+                "value": 0.972
+              },
+              {
+                "name": "stat-subelements: 0.968",
+                "value": 0.968
+              },
+              {
+                "name": "argument: 0.96",
+                "value": 0.96
+              },
+              {
+                "name": "expressions: 0.95",
+                "value": 0.95
+              },
+              {
+                "name": "statement: 0.929",
+                "value": 0.929
+              },
+              {
+                "name": "classes etc.: 0.921",
+                "value": 0.921
+              },
+              {
+                "name": "exceptions: 0.909",
+                "value": 0.909
+              },
+              {
+                "name": "specifier: 0.886",
+                "value": 0.886
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NULL Pointer Dereferencing",
+        "children": [
+          {
+            "name": "CWE476",
+            "children": [
+              {
+                "name": "statement: 1.0",
+                "value": 1.0
+              },
+              {
+                "name": "argument: 0.915",
+                "value": 0.915
+              },
+              {
+                "name": "expressions: 0.893",
+                "value": 0.893
+              },
+              {
+                "name": "exceptions: 0.767",
+                "value": 0.767
+              },
+              {
+                "name": "specifier: 0.763",
+                "value": 0.763
+              },
+              {
+                "name": "name: 0.743",
+                "value": 0.743
+              },
+              {
+                "name": "stat-subelements: 0.69",
+                "value": 0.69
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
